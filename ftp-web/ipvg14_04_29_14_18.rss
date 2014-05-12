@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-04-20</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Mavericks vs. Spurs: Game 1</title>
+      <description>Tim Duncan finishes with 27 points, Tony Parker adds 21 and the Spurs take Game 1 over the Mavericks 90-85.</description>
+      <filename>recap14_P141_DALSAS</filename>
+      <media_game_date>04/20/2014</media_game_date>
+      <home_team>SAS</home_team>
+      <away_team>DAL</away_team>
+      <duration>00:05:05</duration>
+      <player>Dirk Nowitzki, Monta Ellis, Devin Harris, Vince Carter, Brandan Wright, Kawhi Leonard, Tim Duncan, Tony Parker, Manu Ginobili</player>
+      <tags>San Antonio, Spurs, Dallas, Mavericks, game, recap, Dirk Nowitzki, Monta Ellis, Devin Harris, Vince Carter, Brandan Wright, Kawhi Leonard, Tim Duncan, Tony Parker, Manu Ginobili</tags>
+      <small_image_url>140420154657-0041300141-dal-sas-recap.150x84.jpg</small_image_url>
+      <large_image_url>140420154657-0041300141-dal-sas-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140420154657-0041300141-dal-sas-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140420154657-0041300141-dal-sas-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Bobcats vs. Heat: Game 1</title>
+      <description>LeBron James has 27 points and nine rebounds, Dwyane Wade finishes with 23 and the Heat beat the Bobcats in Game 1 99-88.</description>
+      <filename>recap14_P111_CHAMIA</filename>
+      <media_game_date>04/20/2014</media_game_date>
+      <home_team>MIA</home_team>
+      <away_team>CHA</away_team>
+      <duration>00:03:36</duration>
+      <player>Josh McRoberts, Al Jefferson, Kemba Walker, Gary Neal, LeBron James, Chris Bosh, Dwyane Wade, James Jones</player>
+      <tags>Miami, Heat, Charlotte, Bobcats, game 1, recap, Josh McRoberts, Al Jefferson, Kemba Walker, Gary Neal, LeBron James, Chris Bosh, Dwyane Wade, James Jones</tags>
+      <small_image_url>140420174939-0041300111-cha-mia-recap.150x84.jpg</small_image_url>
+      <large_image_url>140420174939-0041300111-cha-mia-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140420174939-0041300111-cha-mia-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140420174939-0041300111-cha-mia-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-07</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Heat vs. Spurs</title>
+      <description>Tim Duncan scores 23 points and grabs 11 rebounds with Tony Parker adding 17 points as the Spurs rout the Heat 111-87.</description>
+      <filename>recap14_0914_MIASAS</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team>SAS</home_team>
+      <away_team>MIA</away_team>
+      <duration>00:03:07</duration>
+      <player>LeBron James, Mario Chalmers, Dwyane Wade, Chris Andersen, Chris Bosh, Shane Battier, Danny Green, Kawhi Leonard</player>
+      <tags>San Antonio, Spurs, Miami, Heat, LeBron James, Mario Chalmers, Dwyane Wade, Chris Andersen, Chris Bosh, Shane Battier, Danny Green, Kawhi Leonard</tags>
+      <small_image_url>140306223848-20140306-tim-duncan-vs-sas-spurs.150x84.jpg</small_image_url>
+      <large_image_url>140306223848-20140306-tim-duncan-vs-sas-spurs.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306223848-20140306-tim-duncan-vs-sas-spurs.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306223848-20140306-tim-duncan-vs-sas-spurs.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Thunder vs. Suns</title>
+      <description>Gerald Green sets a career-high scoring 41 points with Goran Dragic adding 22 points as the Suns beat the Thunder 128-122.</description>
+      <filename>recap14_0915_OKCPHX</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team>PHX</home_team>
+      <away_team>OKC</away_team>
+      <duration>00:03:05</duration>
+      <player>Goran Dragic, Markieff Morris, Marcus Morris, P.J Tucker, Gerald Green, Miles Plumlee, Kevin Durant, Russell Westbrook</player>
+      <tags>Phoenix, Suns, Oklahoma City, Thunder, Goran Dragic, Markieff Morris, Marcus Morris, P.J Tucker, Gerald Green, Miles Plumlee, Kevin Durant, Russell Westbrook</tags>
+      <small_image_url>140306232555-20140306-gerald-green-vs-okc-thunder.150x84.jpg</small_image_url>
+      <large_image_url>140306232555-20140306-gerald-green-vs-okc-thunder.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306232555-20140306-gerald-green-vs-okc-thunder.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306232555-20140306-gerald-green-vs-okc-thunder.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Ish Smith</title>
+      <description>Ish Smith gets the rebound and mid-air contorts his body heaving the pass down court to Gerald Green who skies in for the big finish.</description>
+      <filename>aotn_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:34</duration>
+      <player>Ish Smith</player>
+      <tags>Ish Smith, Gerald Green, Phoenix, Suns, rebound, pass, assist, slam, dunk, jam</tags>
+      <small_image_url>140307000754-20140306-aotn.150x84.jpg</small_image_url>
+      <large_image_url>140307000754-20140306-aotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307000754-20140306-aotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307000754-20140306-aotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night - Serge Ibaka</title>
+      <description>Goran Dragic speeds past Serge Ibaka on the drive but he uses quick footwork to close the distance and get the rejection.</description>
+      <filename>botn_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:22</duration>
+      <player>Serge Ibaka</player>
+      <tags>Serge Ibaka, Oklahoma City, Thunder, block, swat, reject, deny</tags>
+      <small_image_url>140307004916-20140306-botn.150x84.jpg</small_image_url>
+      <large_image_url>140307004916-20140306-botn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307004916-20140306-botn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307004916-20140306-botn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - Gerald Green</title>
+      <description>Gerald Green drives baseline and cocks back at the apex of elevation and flushes it emphatically with two hands.</description>
+      <filename>dotn_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:35</duration>
+      <player>Gerald Green</player>
+      <tags>Gerald Green, Phoenix, Suns, baseline, drive, slam, dunk, jam</tags>
+      <small_image_url>140307020416-20140306-dotn.150x84.jpg</small_image_url>
+      <large_image_url>140307020416-20140306-dotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307020416-20140306-dotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307020416-20140306-dotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Clippers vs. Lakers</title>
+      <description>Darren Collison scores 24, Blake Griffin scores 20, and DeAndre Jordan scores 17 as the Clippers rout the Lakers 142-94.</description>
+      <filename>recap14_0916_LACLAL</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team>LAL</home_team>
+      <away_team>LAC</away_team>
+      <duration>00:01:00</duration>
+      <player>Kent Bazemore, Kendall Marshall, Pau Gasol, MarShon Brooks, Ryan Kelly, Chris Kaman, Blake Griffin, Chris Paul, DeAndre Jordan</player>
+      <tags>Los Angeles, Lakers, Clippers, Kent Bazemore, Kendall Marshall, Pau Gasol, MarShon Brooks, Ryan Kelly, Chris Kaman, Blake Griffin, Chris Paul, DeAndre Jordan</tags>
+      <small_image_url>140307005116-20140306-blake-griffin-vs-lal-lakers.150x84.jpg</small_image_url>
+      <large_image_url>140307005116-20140306-blake-griffin-vs-lal-lakers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307005116-20140306-blake-griffin-vs-lal-lakers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307005116-20140306-blake-griffin-vs-lal-lakers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night - Russell Westbrook</title>
+      <description>Russell Westbrook steals the inbounds pass and takes it all the way for the thunderous tomahawk jam.</description>
+      <filename>sotn_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:20</duration>
+      <player>Russell Westbrook</player>
+      <tags>Russell Westbrook, Oklahoma City, Thunder, steal, slam, dunk, jam</tags>
+      <small_image_url>140307005913-20140306-sotn.150x84.jpg</small_image_url>
+      <large_image_url>140307005913-20140306-sotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307005913-20140306-sotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307005913-20140306-sotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Nightly Top 10</content>
+      <title>Thursday's Top 5</title>
+      <description>Countdown the top five plays from Thursday night in the NBA.</description>
+      <filename>top10_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:01:56</duration>
+      <player>Russell Westbrook, Tony Parker, Gerald Green, Alex Len, Blake Griffin</player>
+      <tags>Russell Westbrook, Tony Parker, Gerald Green, Alex Len, Blake Griffin, top 5, top 10, plays, nightly</tags>
+      <small_image_url>140307011131-20140306-top5.150x84.jpg</small_image_url>
+      <large_image_url>140307011131-20140306-top5.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307011131-20140306-top5.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140307011131-20140306-top5.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>NBAD</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Shows/Special</content>
+      <title>The Daily Zap</title>
+      <description>Wrap-up all of Thursday night's action in the NBA in the Daily Zap.</description>
+      <filename>zap_highlights_140306</filename>
+      <media_game_date>03/06/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:01:38</duration>
+      <player></player>
+      <tags>Miami, Heat, San Antonio, Spurs, Oklahoma City, Thunder, Los Angeles, Clippers, Lakers, daily zap, nightly, recap</tags>
+      <small_image_url>140306230605-gerald-green-against-thunder-030614.150x84.jpg</small_image_url>
+      <large_image_url>140306230605-gerald-green-against-thunder-030614.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306230605-gerald-green-against-thunder-030614.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306230605-gerald-green-against-thunder-030614.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+
+

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-10</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Heat vs. Bulls</title>
+      <description>Joakim Noah has 20 points and 12 rebounds, D.J. Augustin scores 22 and Chicago beats Miami 95-88 in overtime on Sunday.</description>
+      <filename>recap14_0934_MIACHI</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>CHI</home_team>
+      <away_team>MIA</away_team>
+      <duration>00:03:47</duration>
+      <player>LeBron James, Chris Bosh, Dwyane Wade, Chris Andersen, Norris Cole, Joakim Noah, Jimmy Butler, Kirk Hinrich, Taj Gibson</player>
+      <tags>Chicago, Bulls, Miami, Heat, game, recap, LeBron James, Chris Bosh, Dwyane Wade, Chris Andersen, Norris Cole, Joakim Noah, Jimmy Butler, Kirk Hinrich, Taj Gibson</tags>
+      <small_image_url>140309160546-0021300934-mia-chi-recap.150x84.jpg</small_image_url>
+      <large_image_url>140309160546-0021300934-mia-chi-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309160546-0021300934-mia-chi-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309160546-0021300934-mia-chi-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Meeks Shines as Lakers Stun OKC</title>
+      <description>Jodie Meeks scores 42 points and records four steals as the Lakers stun the Thunder in southern California.</description>
+      <filename>recap14_0935_OKCLAL</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>LAL</home_team>
+      <away_team>OKC</away_team>
+      <duration>00:02:02</duration>
+      <player>Serge Ibaka, Kevin Durant, Perry Jones, Steven Adams, Russell Westbrook, Ryan Kelly, Wesley Johnson, Pau Gasol, Kendall Marshall, Jodie Meeks</player>
+      <tags>Los Angeles, Lakers, Oklahoma City, Thunder, game, recap, Serge Ibaka, Kevin Durant, Perry Jones, Steven Adams, Russell Westbrook, Ryan Kelly, Wesley Johnson, Pau Gasol, Kendall Marshall, Jodie Meeks</tags>
+      <small_image_url>140309182514-0309-jodie-meeks-action-white-uni.150x84.jpg</small_image_url>
+      <large_image_url>140309182514-0309-jodie-meeks-action-white-uni.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309182514-0309-jodie-meeks-action-white-uni.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309182514-0309-jodie-meeks-action-white-uni.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Green Lifts Celtics</title>
+      <description>Jeff Green scores 27 points and Rajon Rondo dishes out 18 assists in the Celtics 118-111 win over the Pistons.</description>
+      <filename>recap14_0937_DETBOS</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>BOS</home_team>
+      <away_team>DET</away_team>
+      <duration>00:02:33</duration>
+      <player>Josh Smith, Jeff Green, Andre Drummond, Greg Monroe, Brandon Jennings, Kris Humphries, Jerryd Bayless, Rajon Rondo</player>
+      <tags>Boston, Celtics, Detroit, Pistons, game, recap, Josh Smith, Jeff Green, Andre Drummond, Greg Monroe, Brandon Jennings, Kris Humphries, Jerryd Bayless, Rajon Rondo</tags>
+      <small_image_url>140309204425-20140309-pistons-celtics-recap-jeff-green.150x84.jpg</small_image_url>
+      <large_image_url>140309204425-20140309-pistons-celtics-recap-jeff-green.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309204425-20140309-pistons-celtics-recap-jeff-green.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309204425-20140309-pistons-celtics-recap-jeff-green.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Thornton Dethrones Kings</title>
+      <description>Marcus Thornton scores 27 points to lift the Nets to a 104-89 win over the Kings.</description>
+      <filename>recap14_0938_SACBKN</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>BKN</home_team>
+      <away_team>SAC</away_team>
+      <duration>00:02:27</duration>
+      <player>Rudy Gay, DeMarcus Cousins, Isaiah Thomas, Joe Johnson, Shaun Livingston, Deron Williams, Marcus Thornton, Alan Anderson</player>
+      <tags>Brooklyn, Nets, Sacramento, Kings, game, recap, Rudy Gay, DeMarcus Cousins, Isaiah Thomas, Joe Johnson, Shaun Livingston, Deron Williams, Marcus Thornton, Alan Anderson</tags>
+      <small_image_url>140309203325-20140309-kings-nets-recap-kidd-livingston-johnson.150x84.jpg</small_image_url>
+      <large_image_url>140309203325-20140309-kings-nets-recap-kidd-livingston-johnson.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309203325-20140309-kings-nets-recap-kidd-livingston-johnson.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309203325-20140309-kings-nets-recap-kidd-livingston-johnson.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Davis, Pelicans Drop Nuggets in Overtime</title>
+      <description>Anthony Davis scores 32 points and grabs 17 rebounds as the Pelicans beat the Nuggets in overtime.</description>
+      <filename>recap14_0936_DENNOP</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>NOP</home_team>
+      <away_team>DEN</away_team>
+      <duration>00:02:53</duration>
+      <player>Kenneth Faried, Wilson Chandler, Timofey Mozgov, Ty Lawson, Randy Foye, Tyreke Evans, Alexis Ajinca, Brian Roberts</player>
+      <tags>New Orleans, Pelicans, Denver, Nuggets, game, recap, Kenneth Faried, Wilson Chandler, Timofey Mozgov, Ty Lawson, Randy Foye, Tyreke Evans, Alexis Ajinca, Brian Roberts</tags>
+      <small_image_url>140309205858-0309-anthony-davis-iso-white-uni.150x84.jpg</small_image_url>
+      <large_image_url>140309205858-0309-anthony-davis-iso-white-uni.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309205858-0309-anthony-davis-iso-white-uni.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309205858-0309-anthony-davis-iso-white-uni.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Lowry Scores 20, Raptors Beat Timberwolves</title>
+      <description>Kyle Lowry scores 20 points and dishes out 11 assists as the Raptors defeat the Timberwolves in Minnesota.</description>
+      <filename>recap14_0940_TORMIN</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>MIN</home_team>
+      <away_team>TOR</away_team>
+      <duration>00:03:09</duration>
+      <player>Amir Johnson, Terrence Ross, Jonas Valanciunas, Kyle Lowry, DeMar DeRozan, Kevin Love, Corey Brewer, Nikola Pekovic</player>
+      <tags>Minnesota, Timberwolves, Toronto, Raptors, game, recap, Amir Johnson, Terrence Ross, Jonas Valanciunas, Kyle Lowry, DeMar DeRozan, Kevin Love, Corey Brewer, Nikola Pekovic</tags>
+      <small_image_url>140309214514-0309-kyle-lowry-action-black-uni.150x84.jpg</small_image_url>
+      <large_image_url>140309214514-0309-kyle-lowry-action-black-uni.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309214514-0309-kyle-lowry-action-black-uni.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309214514-0309-kyle-lowry-action-black-uni.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Ricky Rubio</title>
+      <description>Ricky Rubio drives and dishes to Shabazz Muhammad for the slam.</description>
+      <filename>aotn_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:28</duration>
+      <player>Ricky Rubio</player>
+      <tags>Ricky Rubio, Minnesota, Timberwolves, drive, assist, pass, slam, dunk, jam</tags>
+      <small_image_url>140309231532-20140309-assist-of-the-night-ricky-rubio.150x84.jpg</small_image_url>
+      <large_image_url>140309231532-20140309-assist-of-the-night-ricky-rubio.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231532-20140309-assist-of-the-night-ricky-rubio.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231532-20140309-assist-of-the-night-ricky-rubio.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night - Chris Andersen</title>
+      <description>The Birdman helps out on defense and comes up with the monster block.</description>
+      <filename>botn_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:23</duration>
+      <player>Chris Andersen</player>
+      <tags>Chris Andersen, Miami, Heat, block, defense</tags>
+      <small_image_url>140309231244-20140309-block-of-the-night-chris-andersen.150x84.jpg</small_image_url>
+      <large_image_url>140309231244-20140309-block-of-the-night-chris-andersen.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231244-20140309-block-of-the-night-chris-andersen.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231244-20140309-block-of-the-night-chris-andersen.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - Russell Westbrook</title>
+      <description>Russell Westbrook runs past the defense and hammers home to incredible dunk.</description>
+      <filename>dotn_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:33</duration>
+      <player>Russell Westbrook</player>
+      <tags>Russell Westbrook, Oklahoma City, Thunder, fast, break, slam, dunk, jam</tags>
+      <small_image_url>140309231040-20140309-dunk-of-the-night-russell-westbrook.150x84.jpg</small_image_url>
+      <large_image_url>140309231040-20140309-dunk-of-the-night-russell-westbrook.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231040-20140309-dunk-of-the-night-russell-westbrook.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231040-20140309-dunk-of-the-night-russell-westbrook.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night - Joakim Noah</title>
+      <description>Joakim Noah comes up with the steal and gets the ball ahead to Taj Gibson for the dunk.</description>
+      <filename>sotn_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:46</duration>
+      <player>Joakim Noah</player>
+      <tags>Joakim Noah, Chicago, Bulls, steal, slam, dunk, jam</tags>
+      <small_image_url>140309231741-20140309-steal-of-the-night-joakim-noah.150x84.jpg</small_image_url>
+      <large_image_url>140309231741-20140309-steal-of-the-night-joakim-noah.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231741-20140309-steal-of-the-night-joakim-noah.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309231741-20140309-steal-of-the-night-joakim-noah.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Rockets Drop Blazers in O.T.</title>
+      <description>James Harden explodes for 41 points to push the Rockets past the Trail Blazers in O.T.</description>
+      <filename>recap14_0939_PORHOU</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>HOU</home_team>
+      <away_team>POR</away_team>
+      <duration>00:02:50</duration>
+      <player>James Harden, Dwight Howard, Chandler Parsons, Patrick Beverley, LaMarcus Aldridge, Nicolas Batum</player>
+      <tags>Houston, Rockets, Portland, Trail Blazers, game, recap, James Harden, Dwight Howard, Chandler Parsons, Patrick Beverley, LaMarcus Aldridge, Nicolas Batum</tags>
+      <small_image_url>140309223615-20140309-trail-blazers-rocket-recap-james-harden.150x84.jpg</small_image_url>
+      <large_image_url>140309223615-20140309-trail-blazers-rocket-recap-james-harden.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309223615-20140309-trail-blazers-rocket-recap-james-harden.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309223615-20140309-trail-blazers-rocket-recap-james-harden.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Mavericks Push Past Pacers</title>
+      <description>Monta Ellis scores 20 points and pulls down eight rebounds in the Mavericks 105-94 win over the Pacers.</description>
+      <filename>recap14_0941_INDDAL</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>DAL</home_team>
+      <away_team>IND</away_team>
+      <duration>00:01:55</duration>
+      <player>Paul George, Roy Hibbert, Lance Stephenson, George Hill, Dirk Nowitzki, Monta Ellis, Jose Calderon, Devin Harris</player>
+      <tags>Dallas, Mavericks, Indiana, Pacers, game, recap, Paul George, Roy Hibbert, Lance Stephenson, George Hill, Dirk Nowitzki, Monta Ellis, Jose Calderon, Devin Harris</tags>
+      <small_image_url>140309225137-20140309-pacers-mavericks-recap-monta-ellis.150x84.jpg</small_image_url>
+      <large_image_url>140309225137-20140309-pacers-mavericks-recap-monta-ellis.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309225137-20140309-pacers-mavericks-recap-monta-ellis.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140309225137-20140309-pacers-mavericks-recap-monta-ellis.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Warriors Defeat Suns for 4th Straight Win</title>
+      <description>David Lee scores 26 points and grabs nine rebounds as the Warriors stop the Suns in northern California.</description>
+      <filename>recap14_0942_PHXGSW</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team>GSW</home_team>
+      <away_team>PHX</away_team>
+      <duration>00:02:01</duration>
+      <player>P.J Tucker, Channing Frye, Alex Len, Gerald Green, Goran Dragic, Andre Iguodala, David Lee, Andrew Bogut, Klay Thompson</player>
+      <tags>Golden State, Warriors, Phoenix, Suns, game, recap, P.J Tucker, Channing Frye, Alex Len, Gerald Green, Goran Dragic, Andre Iguodala, David Lee, Andrew Bogut, Klay Thompson</tags>
+      <small_image_url>130503194126-david-lee-iso-emotion-white-uni.150x84.jpg</small_image_url>
+      <large_image_url>130503194126-david-lee-iso-emotion-white-uni.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/130503194126-david-lee-iso-emotion-white-uni.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/130503194126-david-lee-iso-emotion-white-uni.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Nightly Top 10</content>
+      <title>Top 10: March 9</title>
+      <description>Count down the Top 10 plays from Sunday's action.</description>
+      <filename>top10_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:02:54</duration>
+      <player>Anthony Morrow, Russell Westbrook, Jimmy Butler, Joakim Noah, Taj Gibson, Rajon Rondo, Jeff Green, Chris Andersen, LeBron James, Kenneth Faried, Dwight Howard, Corey Brewer</player>
+      <tags>top, 10, ten, best, play, slam, dunk, jam, shot, buzzer, beater, block, swat, steal, Anthony Morrow, Russell Westbrook, Jimmy Butler, Joakim Noah, Taj Gibson, Rajon Rondo, Jeff Green, Chris Andersen, LeBron James, Kenneth Faried, Dwight Howard, Corey Brewer</tags>
+      <small_image_url>140310001728-20140309-top-10-anthony-morrow-tyreke-evans-bump.150x84.jpg</small_image_url>
+      <large_image_url>140310001728-20140309-top-10-anthony-morrow-tyreke-evans-bump.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140310001728-20140309-top-10-anthony-morrow-tyreke-evans-bump.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140310001728-20140309-top-10-anthony-morrow-tyreke-evans-bump.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>NBAD</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Shows/Special</content>
+      <title>Daily Zap: March 9</title>
+      <description>Whip around the NBA and catch highlights from all of Sunday's action in one easy spot.</description>
+      <filename>zap_highlights_140309</filename>
+      <media_game_date>03/09/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:03:14</duration>
+      <player></player>
+      <tags>daily, zap, nightly, highlights, game, recap, Heat, Bulls, Thunder, Lakers, Nuggets, Pelicans, Pistons, Celtics, Kings, Nets, Trail Blazers, Rockets, Raptors, Timberwolves, Pacers, Mavericks, Suns, Warriors</tags>
+      <small_image_url>140310001919-20140309-daily-zap-james-harden.150x84.jpg</small_image_url>
+      <large_image_url>140310001919-20140309-daily-zap-james-harden.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140310001919-20140309-daily-zap-james-harden.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140310001919-20140309-daily-zap-james-harden.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-23</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Lowry Leads Raptors Rally Past Hawks</title>
+      <description>Hawks vs. Raptors: Kyle Lowry scores 25 points to give the Raptors the 96-86 win over the Hawks.</description>
+      <filename>recap14_1040_ATLTOR</filename>
+      <media_game_date>03/23/2014</media_game_date>
+      <home_team>TOR</home_team>
+      <away_team>ATL</away_team>
+      <duration>00:02:20</duration>
+      <player>Paul Millsap, DeMarre Carroll, Jeff Teague, Terrence Ross, Jonas Valanciunas, Kyle Lowry, DeMar DeRozan, Greivis Vasquez</player>
+      <tags>Toronto, Raptors, Atlanta, Hawks, game, recap, Paul Millsap, DeMarre Carroll, Jeff Teague, Terrence Ross, Jonas Valanciunas, Kyle Lowry, DeMar DeRozan, Greivis Vasquez</tags>
+      <small_image_url>140323152932-20140323-hawks-raptors-recap-kyle-lowry.150x84.jpg</small_image_url>
+      <large_image_url>140323152932-20140323-hawks-raptors-recap-kyle-lowry.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140323152932-20140323-hawks-raptors-recap-kyle-lowry.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140323152932-20140323-hawks-raptors-recap-kyle-lowry.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  </channel>    
+</rss>

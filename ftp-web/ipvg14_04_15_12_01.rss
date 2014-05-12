@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-04-13</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Thunder vs. Pacers</title>
+      <description>Lance Stephenson goes for a triple-double to lift the Pacers past the Thunder, 102-97.</description>
+      <filename>recap14_1200_OKCIND</filename>
+      <media_game_date>04/13/2014</media_game_date>
+      <home_team>IND</home_team>
+      <away_team>OKC</away_team>
+      <duration>00:04:57</duration>
+      <player>Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler, Paul George, David West, Lance Stephenson, C.J. Watson</player>
+      <tags>Indiana, Pacers, Oklahoma City, Thunder, game, recap, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler, Paul George, David West, Lance Stephenson, C.J. Watson</tags>
+      <small_image_url>140413154849-20140413-thunder-pacers-recap-lance-stephenson.150x84.jpg</small_image_url>
+      <large_image_url>140413154849-20140413-thunder-pacers-recap-lance-stephenson.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413154849-20140413-thunder-pacers-recap-lance-stephenson.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413154849-20140413-thunder-pacers-recap-lance-stephenson.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Raptors vs. Pistons</title>
+      <description>DeMar DeRozan scores 30 points and Kyle Lowry adds 28 points as the Raptors defeat the Pistons 116-107.</description>
+      <filename>recap14_1198_TORDET</filename>
+      <media_game_date>04/13/2014</media_game_date>
+      <home_team>DET</home_team>
+      <away_team>TOR</away_team>
+      <duration>00:02:21</duration>
+      <player>Jonas Valanciunas, DeMar DeRozan, Kyle Lowry, Greivis Vasquez, Amir Johnson, Kyle Singler, Greg Monroe, Andre Drummond</player>
+      <tags>Detroit, Pistons, Toronto, Raptors, game, recap, Jonas Valanciunas, DeMar DeRozan, Kyle Lowry, Greivis Vasquez, Amir Johnson, Kyle Singler, Greg Monroe, Andre Drummond</tags>
+      <small_image_url>140413181428-20140413-demar-derozan.150x84.jpg</small_image_url>
+      <large_image_url>140413181428-20140413-demar-derozan.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413181428-20140413-demar-derozan.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413181428-20140413-demar-derozan.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Magic vs. Nets</title>
+      <description>Mirza Teletovic (20 points) and Mason Plumlee (17 points, 11 rebounds) lead the Nets past the Magic 97-88.</description>
+      <filename>recap14_1199_ORLBKN</filename>
+      <media_game_date>04/13/2014</media_game_date>
+      <home_team>BKN</home_team>
+      <away_team>ORL</away_team>
+      <duration>00:02:16</duration>
+      <player>Maurice Harkless, Kyle OQuinn, Arron Afflalo, Tobias Harris, Andrew Nicholson, Paul Pierce, Joe John</player>
+      <tags>Brooklyn, Nets, Orlando, Magic, game, recap, Maurice Harkless, Kyle OQuinn, Arron Afflalo, Tobias Harris, Andrew Nicholson, Paul Pierce, Joe Johnson, Deron Williams</tags>
+      <small_image_url>140413202521-20140413-mirza-teletovic.150x84.jpg</small_image_url>
+      <large_image_url>140413202521-20140413-mirza-teletovic.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413202521-20140413-mirza-teletovic.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140413202521-20140413-mirza-teletovic.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+

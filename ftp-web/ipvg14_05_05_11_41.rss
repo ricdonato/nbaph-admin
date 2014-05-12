@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-04-29</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Heat vs. Bobcats: Game 4</title>
+      <description>LeBron James scores 31 points, and the Heat complete a first-round sweep of the Bobcats with a 109-98 victory Monday night.</description>
+      <filename>recap14_P114_MIACHA</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team>CHA</home_team>
+      <away_team>MIA</away_team>
+      <duration>00:03:12</duration>
+      <player>LeBron James, Chris Bosh, Dwyane Wade, Mario Chalmers, Norris Cole, Josh McRoberts, Gerald Henderson, Kemba Walker</player>
+      <tags>Charlotte, Bobcats, Miami, Heat, game, recap, LeBron James, Chris Bosh, Dwyane Wade, Mario Chalmers, Norris Cole, Josh McRoberts, Gerald Henderson, Kemba Walker</tags>
+      <small_image_url>140428210103-lebron-james-emotion-042814.150x84.jpg</small_image_url>
+      <large_image_url>140428210103-lebron-james-emotion-042814.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140428210103-lebron-james-emotion-042814.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140428210103-lebron-james-emotion-042814.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Hawks vs. Pacers: Game 5</title>
+      <description>Shelvin Mack scores 20 points, Paul Millsap adds 18 points and the Hawks take a commanding 3-2 series lead with a 107-97 Game 5 win over the Pacers.</description>
+      <filename>recap14_P105_ATLIND</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team>IND</home_team>
+      <away_team>ATL</away_team>
+      <duration>00:02:37</duration>
+      <player>DeMarre Carroll, Paul Millsap, Kyle Korver, Jeff Teague, Shelvin Mack, Mike Scott, Paul George, David West, Lance Stephenson</player>
+      <tags>Indiana, Pacers, Atlanta, Hawks, game, recap, DeMarre Carroll, Paul Millsap, Kyle Korver, Jeff Teague, Shelvin Mack, Mike Scott, Paul George, David West, Lance Stephenson</tags>
+      <small_image_url>140428224856-0041300105-atl-ind-recap.150x84.jpg</small_image_url>
+      <large_image_url>140428224856-0041300105-atl-ind-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140428224856-0041300105-atl-ind-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140428224856-0041300105-atl-ind-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night: Manu Ginobili</title>
+      <description>Manu Ginobili drives through the paint and finds Tim Duncan for the easy slam.</description>
+      <filename>aotn_140428</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:22</duration>
+      <player>Manu Ginobili, Tim Duncan</player>
+      <tags>Manu Ginobili, Tim Duncan, San Antonio, Spurs, drive, assist, pass, slam, dunk, jam</tags>
+      <small_image_url>140429005432-20140428-assist-night.150x84.jpg</small_image_url>
+      <large_image_url>140429005432-20140428-assist-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005432-20140428-assist-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005432-20140428-assist-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night: Cody Zeller</title>
+      <description>Cody Zeller makes the block and outlets to Gerald Henderson for the lay-in plus the foul.</description>
+      <filename>botn_140428</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:34</duration>
+      <player>Cody Zeller, Gerald Henderson</player>
+      <tags>Cody Zeller, Gerald Henderson, Charlotte, Bobcats, block, fast, break, layup, score, foul</tags>
+      <small_image_url>140429005711-20140428-block-night.150x84.jpg</small_image_url>
+      <large_image_url>140429005711-20140428-block-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005711-20140428-block-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005711-20140428-block-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night: Cody Zeller</title>
+      <description>Cody Zeller makes the block and outlets to Gerald Henderson for the lay-in plus the foul.</description>
+      <filename>botn_140428</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:34</duration>
+      <player>Cody Zeller, Gerald Henderson</player>
+      <tags>Cody Zeller, Gerald Henderson, Charlotte, Bobcats, block, fast, break, layup, score, foul</tags>
+      <small_image_url>140429005711-20140428-block-night.150x84.jpg</small_image_url>
+      <large_image_url>140429005711-20140428-block-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005711-20140428-block-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005711-20140428-block-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night: Paul Millsap</title>
+      <description>Jeff Teague dumps it off to Paul Millsap who tries to break the rim on this sick rack attack.</description>
+      <filename>dotn_140428</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:50</duration>
+      <player>Paul Millsap, Jeff Teague</player>
+      <tags>Paul Millsap, Jeff Teague, Atlanta, Hawks, drive, assist, pass, slam, dunk, jam</tags>
+      <small_image_url>140429005924-20140428-dunk-night.150x84.jpg</small_image_url>
+      <large_image_url>140429005924-20140428-dunk-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005924-20140428-dunk-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429005924-20140428-dunk-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night: Josh McRoberts</title>
+      <description>Josh McRoberts gets the steal and finds Michael Kidd-Gilchrist who goes in strong for the layup before the halftime buzzer.</description>
+      <filename>sotn_140428</filename>
+      <media_game_date>04/28/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:37</duration>
+      <player>Josh McRoberts, Michael Kidd-Gilchrist</player>
+      <tags>Josh McRoberts, Michael Kidd-Gilchrist, Charlotte, Bobcats, steal, fast, break, layup, score, buzzer, beater</tags>
+      <small_image_url>140429010257-20140428-steal-night.150x84.jpg</small_image_url>
+      <large_image_url>140429010257-20140428-steal-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429010257-20140428-steal-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140429010257-20140428-steal-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+

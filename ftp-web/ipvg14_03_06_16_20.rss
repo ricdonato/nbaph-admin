@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-06</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Rockets vs. Magic</title>
+      <description>James Harden scores 31 points and Dwight Howard notches a double-double in the Rockets 101-89 win over the Magic.</description>
+      <filename>recap14_0905_HOUORL</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>ORL</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:02:31</duration>
+      <player>Dwight Howard, James Harden, Chandler Parsons, Jeremy Lin, Terrence Jones, Patrick Beverley, Maurice Harkless, Victor Oladipo</player>
+      <tags>Orlando, Magic, Houston, Rockets, game, recap, Dwight Howard, James Harden, Chandler Parsons, Jeremy Lin, Terrence Jones, Patrick Beverley, Maurice Harkless, Victor Oladipo</tags>
+      <small_image_url>140305212428-james-harden-against-magic-030514.150x84.jpg</small_image_url>
+      <large_image_url>140305212428-james-harden-against-magic-030514.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212428-james-harden-against-magic-030514.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212428-james-harden-against-magic-030514.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Pacers vs. Bobcats</title>
+      <description>Al Jefferson explodes for 34 points with 8 rebounds to lead the Bobcats over the Pacers 109-87.</description>
+      <filename>recap14_0904_INDCHA</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>CHA</home_team>
+      <away_team>IND</away_team>
+      <duration>00:02:21</duration>
+      <player>Paul George, Roy Hibbert, Lance Stephenson, George Hill, Evan Turner, David West, Al Jefferson, Kemba Walker, Michael Kidd-Gilchrist</player>
+      <tags>Charlotte, Bobcats, Indiana, Pacers, game, recap, Paul George, Roy Hibbert, Lance Stephenson, George Hill, Evan Turner, David West, Al Jefferson, Kemba Walker, Michael Kidd-Gilchrist</tags>
+      <small_image_url>140305212929-20140305-al-jefferson-vs-ind-pacers.150x84.jpg</small_image_url>
+      <large_image_url>140305212929-20140305-al-jefferson-vs-ind-pacers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212929-20140305-al-jefferson-vs-ind-pacers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212929-20140305-al-jefferson-vs-ind-pacers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Jazz vs. Wizards</title>
+      <description>Trevor Ariza scores 26 points with Bradley Beal adding 22 points to lead the Wizards over the Jazz at home 104-91.</description>
+      <filename>recap14_0906_UTAWAS</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>WAS</home_team>
+      <away_team>UTA</away_team>
+      <duration>00:02:21</duration>
+      <player>Trey Burke, John Wall, Derrick Favors, Gordon Hayward, Marvin Williams, Enes Kanter, Diante Garrett, Richard Jefferson</player>
+      <tags>Washington, Wizards, Utah, Jazz, game, recap, Trey Burke, John Wall, Derrick Favors, Gordon Hayward, Marvin Williams, Enes Kanter, Diante Garrett, Richard Jefferson</tags>
+      <small_image_url>140305212015-20140305-trevor-ariza-vs-uta-jazz.150x84.jpg</small_image_url>
+      <large_image_url>140305212015-20140305-trevor-ariza-vs-uta-jazz.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212015-20140305-trevor-ariza-vs-uta-jazz.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305212015-20140305-trevor-ariza-vs-uta-jazz.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Bulls vs. Pistons</title>
+      <description>Joakim Noah goes for a triple-double with 10 points, 11 rebounds and 11 assists in the Bulls 105-94 win over the Pistons.</description>
+      <filename>recap14_0909_CHIDET</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>DET</home_team>
+      <away_team>CHI</away_team>
+      <duration>00:02:26</duration>
+      <player>Taj Gibson, Joakim Noah, Kirk Hinrich, Mike Dunleavy, Carlos Boozer, Jimmy Butler, Andre Drummond, Will Bynum, Greg Monroe</player>
+      <tags>Detroit, Pistons, Chicago, Bulls, game, recap, Taj Gibson, Joakim Noah, Kirk Hinrich, Mike Dunleavy, Carlos Boozer, Jimmy Butler, Andre Drummond, Will Bynum, Greg Monroe</tags>
+      <small_image_url>140305215255-20140305-bulls-pistons-recap-joakim-noah.150x84.jpg</small_image_url>
+      <large_image_url>140305215255-20140305-bulls-pistons-recap-joakim-noah.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305215255-20140305-bulls-pistons-recap-joakim-noah.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305215255-20140305-bulls-pistons-recap-joakim-noah.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Warriors vs. Celtics</title>
+      <description>David Lee scores 18 points and pulls down 10 boards in the Warriors 108-88 win over the Celtics.</description>
+      <filename>recap14_0907_GSWBOS</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>BOS</home_team>
+      <away_team>GSW</away_team>
+      <duration>00:01:59</duration>
+      <player>Stephen Curry, Klay Thompson, Marreese Speights, Andre Iguodala, Harrison Barnes, Andrew Bogut, Kelly Olynyk, Jeff Green</player>
+      <tags>Boston, Celtics, Golden State, Warriors, game, recap, Stephen Curry, Klay Thompson, Marreese Speights, Andre Iguodala, Harrison Barnes, Andrew Bogut, Kelly Olynyk, Jeff Green</tags>
+      <small_image_url>140305220323-20140305-warriors-celtics-andre-iguodala.150x84.jpg</small_image_url>
+      <large_image_url>140305220323-20140305-warriors-celtics-andre-iguodala.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305220323-20140305-warriors-celtics-andre-iguodala.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305220323-20140305-warriors-celtics-andre-iguodala.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Grizzlies vs. Nets</title>
+      <description>Joe Johnson scores 21 points with Marcus Thornton adding 20 points to put the Nets over the Grizzlies 103-94.</description>
+      <filename>recap14_0908_MEMBKN</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>BKN</home_team>
+      <away_team>MEM</away_team>
+      <duration>00:02:21</duration>
+      <player>Nick Calathes, Marc Gasol, Mike Conley, James Johnson, Tayshaun Prince, Mike Miller, Paul Pierce, Andray Blatche, Joe Johnson, Marcus Thornton</player>
+      <tags>Brooklyn, Nets, Memphis, Grizzlies, game, recap, Nick Calathes, Marc Gasol, Mike Conley, James Johnson, Tayshaun Prince, Mike Miller, Paul Pierce, Andray Blatche, Joe Johnson, Marcus Thornton</tags>
+      <small_image_url>140305214121-20140305-marcus-thornton-vs-mem-grizzlies.150x84.jpg</small_image_url>
+      <large_image_url>140305214121-20140305-marcus-thornton-vs-mem-grizzlies.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305214121-20140305-marcus-thornton-vs-mem-grizzlies.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305214121-20140305-marcus-thornton-vs-mem-grizzlies.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Knicks vs. Timberwolves</title>
+      <description>Carmelo Anthony scores 33 points to lift the Knicks to a 118-106 win over the Timberwolves.</description>
+      <filename>recap14_0911_NYKMIN</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>MIN</home_team>
+      <away_team>NYK</away_team>
+      <duration>00:02:15</duration>
+      <player>Carmelo Anthony, J.R. Smith, Tyson Chandler, Raymond Felton, Pablo Prigioni, Tim Hardaway Jr., Kevin Love, Ricky Rubio</player>
+      <tags>Minnesota, Timberwolves, New York, Knicks, game, recap, Carmelo Anthony, J.R. Smith, Tyson Chandler, Raymond Felton, Pablo Prigioni, Tim Hardaway Jr., Kevin Love, Ricky Rubio</tags>
+      <small_image_url>140305223110-20140305-knicks-timberwolves-recap-carmelo-anthony.150x84.jpg</small_image_url>
+      <large_image_url>140305223110-20140305-knicks-timberwolves-recap-carmelo-anthony.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305223110-20140305-knicks-timberwolves-recap-carmelo-anthony.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305223110-20140305-knicks-timberwolves-recap-carmelo-anthony.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Mavericks vs. Nuggets</title>
+      <description>Wilson Chandler scores 21 points with Ty Lawson adding 20 points with 7 assists as the Nuggets top the Mavericks at home 115-110.</description>
+      <filename>recap14_0912_DALDEN</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>DEN</home_team>
+      <away_team>DAL</away_team>
+      <duration>00:02:27</duration>
+      <player>Dirk Nowitzki, Vince Carter, Jose Calderon, Monta Ellis, Brandan Wright, Samuel Dalembert, Kenneth Faried, Ty Lawson, J.J. Hickson</player>
+      <tags>Denver, Nuggets, Dallas, Mavericks, game, recap, Dirk Nowitzki, Vince Carter, Jose Calderon, Monta Ellis, Brandan Wright, Samuel Dalembert, Kenneth Faried, Ty Lawson, J.J. Hickson</tags>
+      <small_image_url>140305232056-20140305-ty-lawson-vs-dal-mavericks.150x84.jpg</small_image_url>
+      <large_image_url>140305232056-20140305-ty-lawson-vs-dal-mavericks.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232056-20140305-ty-lawson-vs-dal-mavericks.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232056-20140305-ty-lawson-vs-dal-mavericks.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Kings vs. Bucks</title>
+      <description>Isaiah Thomas scores 25 points with DeMarcus Cousins adding 21 points with 10 rebounds to lead the Kings over the Bucks 116-102.</description>
+      <filename>recap14_0910_SACMIL</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>MIL</home_team>
+      <away_team>SAC</away_team>
+      <duration>00:02:32</duration>
+      <player>DeMarcus Cousins, Rudy Gay, Ben McLemore, Isaiah Thomas, Jason Thompson, Brandon Knight, Khris Middleton, John Henson</player>
+      <tags>Milwaukee, Bucks, Sacramento, Kings, game, recap, DeMarcus Cousins, Rudy Gay, Ben McLemore, Isaiah Thomas, Jason Thompson, Brandon Knight, Khris Middleton, John Henson</tags>
+      <small_image_url>140305232304-20140305-isaiah-thomas-vs-mil-bucks.150x84.jpg</small_image_url>
+      <large_image_url>140305232304-20140305-isaiah-thomas-vs-mil-bucks.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232304-20140305-isaiah-thomas-vs-mil-bucks.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232304-20140305-isaiah-thomas-vs-mil-bucks.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Hawks vs. Trail Blazers</title>
+      <description>The Trail Blazers have six players in double-figures as they take the win over the Hawks, 102-78.</description>
+      <filename>recap14_0913_ATLPOR</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team>POR</home_team>
+      <away_team>ATL</away_team>
+      <duration>00:01:52</duration>
+      <player>LaMarcus Aldridge, Wesley Matthews, Nicolas Batum, Damian Lillard, Robin Lopez, Mo Williams, Kyle Korver, Jeff Teague</player>
+      <tags>Portland, Trail Blazers, Atlanta, Hawks, game, recap, LaMarcus Aldridge, Wesley Matthews, Nicolas Batum, Damian Lillard, Robin Lopez, Mo Williams, Kyle Korver, Jeff Teague</tags>
+      <small_image_url>140306010958-20140305-hawks-trail-blazers-recap-nicolas-batum.150x84.jpg</small_image_url>
+      <large_image_url>140306010958-20140305-hawks-trail-blazers-recap-nicolas-batum.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306010958-20140305-hawks-trail-blazers-recap-nicolas-batum.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306010958-20140305-hawks-trail-blazers-recap-nicolas-batum.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Deron Williams</title>
+      <description>Deron Williams runs the break and finds Paul Pierce dropping the pass between the legs and sets the pick for The Truth to nail the triple.</description>
+      <filename>aotn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:23</duration>
+      <player>Deron Williams</player>
+      <tags>Deron Williams, Paul Pierce, Brooklyn, Nets, assist, pass, between, legs, three, 3-point, score</tags>
+      <small_image_url>140305232840-20140305-aotn.150x84.jpg</small_image_url>
+      <large_image_url>140305232840-20140305-aotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232840-20140305-aotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232840-20140305-aotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night - JJ Hickson</title>
+      <description>Monta Ellis drives through traffic and feeds Samuel Dalembert who tries the dunk and JJ Hickson meets him at the rim for the strong denial.</description>
+      <filename>botn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:31</duration>
+      <player>J.J. Hickson</player>
+      <tags>J.J. Hickson, Denver, Nuggets, block, defense, swat, Samuel Dalembert</tags>
+      <small_image_url>140305232435-20140305-botn.150x84.jpg</small_image_url>
+      <large_image_url>140305232435-20140305-botn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232435-20140305-botn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305232435-20140305-botn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - John Wall</title>
+      <description>John Wall pokes the ball away from Trey Burke and on the other end flies in with the reverse jam to end the first half.</description>
+      <filename>dotn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:31</duration>
+      <player>John Wall</player>
+      <tags>John Wall, Washington, Wizards, steal, drive, slam, dunk, jam, reverse, buzzer, beater, half</tags>
+      <small_image_url>140306003133-20140305-dotn.150x84.jpg</small_image_url>
+      <large_image_url>140306003133-20140305-dotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - John Wall</title>
+      <description>John Wall pokes the ball away from Trey Burke and on the other end flies in with the reverse jam to end the first half.</description>
+      <filename>dotn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:31</duration>
+      <player>John Wall</player>
+      <tags>John Wall, Washington, Wizards, steal, drive, slam, dunk, jam, reverse, buzzer, beater, half</tags>
+      <small_image_url>140306003133-20140305-dotn.150x84.jpg</small_image_url>
+      <large_image_url>140306003133-20140305-dotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - John Wall</title>
+      <description>John Wall pokes the ball away from Trey Burke and on the other end flies in with the reverse jam to end the first half.</description>
+      <filename>dotn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:31</duration>
+      <player>John Wall</player>
+      <tags>John Wall, Washington, Wizards, steal, drive, slam, dunk, jam, reverse, buzzer, beater, half</tags>
+      <small_image_url>140306003133-20140305-dotn.150x84.jpg</small_image_url>
+      <large_image_url>140306003133-20140305-dotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306003133-20140305-dotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night - Cody Zeller</title>
+      <description>Cody Zeller intercepts the pass and takes it in for the authoritative slam on the break.</description>
+      <filename>sotn_140305</filename>
+      <media_game_date>03/05/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:26</duration>
+      <player>Cody Zeller</player>
+      <tags>Cody Zeller, Charlotte, Bobcats, steal, slam, dunk, jam</tags>
+      <small_image_url>140306000102-20140305-sotn.150x84.jpg</small_image_url>
+      <large_image_url>140306000102-20140305-sotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306000102-20140305-sotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140306000102-20140305-sotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

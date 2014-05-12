@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-04-14</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Bucks vs. Raptors</title>
+      <description>Greivis Vasquez (25 points) and Kyle Lowry (24 points) lead the Raptors past the Bucks 110-100 for a franchise-record 48th win.</description>
+      <filename>recap14_1205_MILTOR</filename>
+      <media_game_date>04/14/2014</media_game_date>
+      <home_team>TOR</home_team>
+      <away_team>MIL</away_team>
+      <duration>00:02:00</duration>
+      <player>Khris Middleton, Jeff Adrien, Ramon Sessions, Brandon Knight, John Henson, Amir Johnson, Jonas Valanciunas, Greivis Vasquez</player>
+      <tags>Toronto, Raptors, Milwaukee, Bucks, Khris Middleton, Jeff Adrien, Ramon Sessions, Brandon Knight, John Henson, Amir Johnson, Jonas Valanciunas, Greivis Vasquez</tags>
+      <small_image_url>140414214634-20140414-greivis-vasquez.150x84.jpg</small_image_url>
+      <large_image_url>140414214634-20140414-greivis-vasquez.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140414214634-20140414-greivis-vasquez.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140414214634-20140414-greivis-vasquez.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  </channel>    
+</rss>

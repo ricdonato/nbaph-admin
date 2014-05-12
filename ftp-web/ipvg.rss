@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-05-04</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Nets vs. Raptors: Game 7</title>
+      <description>Paul Pierce blocks Kyle Lowry's shot on the final play of the game, and the Nets hold off the Raptors 104-103 in Game 7 to advance to the second round.</description>
+      <filename>recap14_P127_BKNTOR</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team>TOR</home_team>
+      <away_team>BKN</away_team>
+      <duration>00:05:50</duration>
+      <player>Joe Johnson, Paul Pierce, Kevin Garnett, Deron Williams, Marcus Thornton, Shaun Livingston, Terrence Ross, Amir Johnson</player>
+      <tags>Toronto, Raptors, Brooklyn, Nets, Joe Johnson, Paul Pierce, Kevin Garnett, Deron Williams, Marcus Thornton, Shaun Livingston, Terrence Ross, Amir Johnson</tags>
+      <small_image_url>140504160409-0041300127-bkn-tor-recap.150x84.jpg</small_image_url>
+      <large_image_url>140504160409-0041300127-bkn-tor-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504160409-0041300127-bkn-tor-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504160409-0041300127-bkn-tor-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Mavericks vs. Spurs: Game 7</title>
+      <description>Tony Parker scores a game-high 32 points to help lift the Spurs over the Mavericks in Game 7 to advance to the Western Conference Semifinals.</description>
+      <filename>recap14_P147_DALSAS</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team>SAS</home_team>
+      <away_team>DAL</away_team>
+      <duration>00:02:42</duration>
+      <player>Dirk Nowitzki, Monta Ellis, Vince Carter, Devin Harris, Kawhi Leonard, Tim Duncan, Danny Green, Tony Parker, Manu Ginobili</player>
+      <tags>San Antonio, Spurs, Dallas, Mavericks, Dirk Nowitzki, Monta Ellis, Vince Carter, Devin Harris, Kawhi Leonard, Tim Duncan, Danny Green, Tony Parker, Manu Ginobili</tags>
+      <small_image_url>140504181705-0041300147-dal-sas-recap.150x84.jpg</small_image_url>
+      <large_image_url>140504181705-0041300147-dal-sas-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504181705-0041300147-dal-sas-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504181705-0041300147-dal-sas-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night: Manu Ginobili</title>
+      <description>Manu Ginobili gets inside and dumps it to Tim Duncan for the easy bucket.</description>
+      <filename>aotn_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:27</duration>
+      <player>Manu Ginobili, Tim Duncan</player>
+      <tags>Manu Ginobili, Tim Duncan, Danny Green, San Antonio, Spurs, pass, assist, layup</tags>
+      <small_image_url>140504181036-20140504-aotn.150x84.jpg</small_image_url>
+      <large_image_url>140504181036-20140504-aotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504181036-20140504-aotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504181036-20140504-aotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night: Paul Pierce</title>
+      <description>Paul Pierce makes the game-saving block on Kyle Lowry to win Game 7 and advance the Brooklyn Nets to the next round.</description>
+      <filename>botn_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:39</duration>
+      <player>Paul Pierce</player>
+      <tags>Paul Pierce, Brooklyn, Nets, game, saving, block, swat, reject, deny</tags>
+      <small_image_url>140504182019-20140504-botn.150x84.jpg</small_image_url>
+      <large_image_url>140504182019-20140504-botn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182019-20140504-botn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182019-20140504-botn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>NBAD</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Shows/Special</content>
+      <title>Daily Zap: May 4</title>
+      <description>Check out the scores and highlights from two pivotal Game 7's on Sunday in the NBA.</description>
+      <filename>zap_highlights_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:02:08</duration>
+      <player></player>
+      <tags>Brooklyn, Nets, Toronto, Raptors, Dallas, Mavericks, San Antonio, Spurs, daily zap, nightly, recap</tags>
+      <small_image_url>140504184659-20140504-zap.150x84.jpg</small_image_url>
+      <large_image_url>140504184659-20140504-zap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504184659-20140504-zap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504184659-20140504-zap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night: Amir Johnson</title>
+      <description>Amir Johnson flies-in for the putback slam.</description>
+      <filename>dotn_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:32</duration>
+      <player>Amir Johnson, Kyle Lowry</player>
+      <tags>Amir Johnson, Toronto, Raptors, putback, slam, dunk, jam</tags>
+      <small_image_url>140504182420-20140504-dotn.150x84.jpg</small_image_url>
+      <large_image_url>140504182420-20140504-dotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182420-20140504-dotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182420-20140504-dotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night: Terrence Ross</title>
+      <description>Terrence Ross makes the big steal and hits it off Paul Pierce to retain possession for the Raptors with 6.2 seconds left in the game.</description>
+      <filename>sotn_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:33</duration>
+      <player>Terrence Ross</player>
+      <tags>Terrence Ross, Toronto, Raptors, steal, final, possession</tags>
+      <small_image_url>140504182623-20140504-sotn.150x84.jpg</small_image_url>
+      <large_image_url>140504182623-20140504-sotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182623-20140504-sotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504182623-20140504-sotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Playoffs</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Nightly Top 10</content>
+      <title>Top 5: May 4</title>
+      <description>Watch the five best plays from Sunday's Game 7 action.</description>
+      <filename>top10_140504</filename>
+      <media_game_date>05/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:01:47</duration>
+      <player>DeMar DeRozan, Terrence Ross, Paul Pierce, Amir Johnson, Tony Parker, Kawhi Leonard, Kyle Lowry</player>
+      <tags>DeMar DeRozan, Terrence Ross, Paul Pierce, Amir Johnson, Tony Parker, Kawhi Leonard, Kyle Lowry, top 5, top 10, plays, nightly</tags>
+      <small_image_url>140504184859-20140504-top5.150x84.jpg</small_image_url>
+      <large_image_url>140504184859-20140504-top5.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504184859-20140504-top5.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140504184859-20140504-top5.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+

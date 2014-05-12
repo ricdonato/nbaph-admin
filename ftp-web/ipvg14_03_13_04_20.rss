@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-12</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Pacers End Loss Streak, Defeat Celtics</title>
+      <description>David West scores 24 points, Paul George adds 12 points as the Pacers end their four-game skid defeating the Celtics.</description>
+      <filename>recap14_0950_BOSIND</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>IND</home_team>
+      <away_team>BOS</away_team>
+      <duration>00:02:09</duration>
+      <player>David West, Paul George, Lance Stephenson, Andrew Bynum, Rajon Rondo, Kelly Olynyk, Jeff Green</player>
+      <tags>Indiana, Pacers, Boston, Celtics, game, recap, David West, Paul George, Lance Stephenson, Andrew Bynum, Rajon Rondo, Kelly Olynyk, Jeff Green</tags>
+      <small_image_url>140311212741-david-west-vs-celtics.150x84.jpg</small_image_url>
+      <large_image_url>140311212741-david-west-vs-celtics.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311212741-david-west-vs-celtics.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311212741-david-west-vs-celtics.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Smith Leads Pistons Past Kings</title>
+      <description>Josh Smith records a game-high 24 points to lead the Pistons over the Kings to end their three-game skid.</description>
+      <filename>recap14_0951_SACDET</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>DET</home_team>
+      <away_team>SAC</away_team>
+      <duration>00:02:19</duration>
+      <player>Josh Smith, Andre Drummond, Greg Monroe, Kyle Singler, Brandon Jennings, Rodney Stuckey, DeMarcus Cousins, Isaiah Thomas, Rudy Gay</player>
+      <tags>Detroit, Pistons, Sacramento, Kings, game, recap, Josh Smith, Andre Drummond, Greg Monroe, Kyle Singler, Brandon Jennings, Rodney Stuckey, DeMarcus Cousins, Isaiah Thomas, Rudy Gay</tags>
+      <small_image_url>140311221127-josh-smith-vs-kings.150x84.jpg</small_image_url>
+      <large_image_url>140311221127-josh-smith-vs-kings.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311221127-josh-smith-vs-kings.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311221127-josh-smith-vs-kings.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Spurs Hang on to Defeat Bulls</title>
+      <description>Manu Ginobili scores 22 points as the Spurs hang on to defeat the Bulls despite only 14 fourth-quarter points.</description>
+      <filename>recap14_0952_SASCHI</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>CHI</home_team>
+      <away_team>SAS</away_team>
+      <duration>00:01:55</duration>
+      <player>Manu Ginobili, Tony Parker, Jimmy Butler, Joakim Noah, D.J. Augustin, Marco Belinelli, Patty Mills, Kawhi Leonard</player>
+      <tags>Chicago, Bulls, San Antonio, Spurs, game, recap, Manu Ginobili, Tony Parker, Jimmy Butler, Joakim Noah, D.J. Augustin, Marco Belinelli, Patty Mills, Kawhi Leonard</tags>
+      <small_image_url>140311225136-ginobili-vs-bulls.150x84.jpg</small_image_url>
+      <large_image_url>140311225136-ginobili-vs-bulls.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225136-ginobili-vs-bulls.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225136-ginobili-vs-bulls.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Grizzlies Edge Blazers</title>
+      <description>Marc Gasol scores 19 points, Zach Randolph adds a double-double as the Grizzlies defeat the Blazers.</description>
+      <filename>recap14_0953_PORMEM</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>MEM</home_team>
+      <away_team>POR</away_team>
+      <duration>00:02:30</duration>
+      <player>Marc Gasol, Zach Randolph, Courtney Lee, Mike Conley, Mike Miller, LaMarcus Aldridge, Nicolas Batum, Damian Lillard</player>
+      <tags>Memphis, Grizzlies, Portland, Trail Blazers, game, recap, Marc Gasol, Zach Randolph, Courtney Lee, Mike Conley, Mike Miller, LaMarcus Aldridge, Nicolas Batum, Damian Lillard</tags>
+      <small_image_url>140311225247-marc-gasol-vs-blazers.150x84.jpg</small_image_url>
+      <large_image_url>140311225247-marc-gasol-vs-blazers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225247-marc-gasol-vs-blazers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225247-marc-gasol-vs-blazers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+

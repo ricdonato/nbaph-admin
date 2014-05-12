@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-05</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Spurs vs. Cavaliers</title>
+      <description>Danny Green scores 24 points to lead the Spurs to a 122-101 win over the Cavaliers.</description>
+      <filename>recap14_0898_SASCLE</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>CLE</home_team>
+      <away_team>SAS</away_team>
+      <duration>00:01:44</duration>
+      <player>Danny Green, Kawhi Leonard, Patty Mills, Boris Diaw, Spencer Hawes, Kyrie Irving, Dion Waiters</player>
+      <tags>Cleveland, Cavaliers, San Antonio, Spurs, Danny Green, Kawhi Leonard, Patty Mills, Boris Diaw, Spencer Hawes, Kyrie Irving, Dion Waiters</tags>
+      <small_image_url>140304212817-20140304-spurs-cavaliers-recap-danny-green-gregg-popovich.150x84.jpg</small_image_url>
+      <large_image_url>140304212817-20140304-spurs-cavaliers-recap-danny-green-gregg-popovich.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304212817-20140304-spurs-cavaliers-recap-danny-green-gregg-popovich.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304212817-20140304-spurs-cavaliers-recap-danny-green-gregg-popovich.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Warriors vs. Pacers</title>
+      <description>Klay Thompson scores 25 points as well as the game-winner to lead the Warriors over the Pacers.</description>
+      <filename>recap14_0899_GSWIND</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>IND</home_team>
+      <away_team>GSW</away_team>
+      <duration>00:02:55</duration>
+      <player>Klay Thompson, Stephen Curry, David Lee, Paul George, David West, Roy Hibbert, Lance Stephenson</player>
+      <tags>Indiana, Pacers, Golden State, Warriors, Klay Thompson, Stephen Curry, David Lee, Paul George, David West, Roy Hibbert, Lance Stephenson</tags>
+      <small_image_url>140304223320-klay-thompson-vs-pacers.150x84.jpg</small_image_url>
+      <large_image_url>140304223320-klay-thompson-vs-pacers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304223320-klay-thompson-vs-pacers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304223320-klay-thompson-vs-pacers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Heat vs. Rockets</title>
+      <description>Dwight Howard records 22 points and 13 rebounds, James Harden adds a double-double as the Rockets defeat the Heat.</description>
+      <filename>recap14_0900_MIAHOU</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>HOU</home_team>
+      <away_team>MIA</away_team>
+      <duration>00:02:58</duration>
+      <player>LeBron James, Dwyane Wade, Michael Beasley, Ray Allen, Terrence Jones, Dwight Howard, James Harden, Patrick Beverley</player>
+      <tags>Houston, Rockets, Miami, Heat, LeBron James, Dwyane Wade, Michael Beasley, Ray Allen, Terrence Jones, Dwight Howard, James Harden, Patrick Beverley</tags>
+      <small_image_url>140304224530-dwight-howard-vs-heat.150x84.jpg</small_image_url>
+      <large_image_url>140304224530-dwight-howard-vs-heat.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304224530-dwight-howard-vs-heat.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304224530-dwight-howard-vs-heat.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Sixers vs. Thunder</title>
+      <description>Kevin Durant scores 42 points and Russell Westbrook goes for a triple-double in the Thunder's 125-92 win over the Sixers.</description>
+      <filename>recap14_0901_PHIOKC</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>PHI</away_team>
+      <duration>00:02:24</duration>
+      <player>Michael Carter-Williams, James Anderson, Kevin Durant, Serge Ibaka, Russell Westbrook, Reggie Jackson</player>
+      <tags>Oklahoma City, Thunder, Phialdelphia, 76ers, Michael Carter-Williams, James Anderson, Kevin Durant, Serge Ibaka, Russell Westbrook, Reggie Jackson</tags>
+      <small_image_url>140304224231-20140304-sixers-thunder-recap-kevin-durant.150x84.jpg</small_image_url>
+      <large_image_url>140304224231-20140304-sixers-thunder-recap-kevin-durant.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304224231-20140304-sixers-thunder-recap-kevin-durant.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304224231-20140304-sixers-thunder-recap-kevin-durant.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Clippers vs. Suns</title>
+      <description>Matt Barnes scores 28 points to lead the Clippers to a 104-96 win over the Suns.</description>
+      <filename>recap14_0902_LACPHX</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>PHX</home_team>
+      <away_team>LAC</away_team>
+      <duration>00:02:21</duration>
+      <player>Matt Barnes, Blake Griffin, DeAndre Jordan, Darren Collison, Chris Paul, P.J Tucker, Gerald Green, Goran Dragic</player>
+      <tags>Phoenix, Suns, Los Angeles, Clippers, Matt Barnes, Blake Griffin, DeAndre Jordan, Darren Collison, Chris Paul, P.J Tucker, Gerald Green, Goran Dragic</tags>
+      <small_image_url>140304232506-20140304-clippers-suns-recap-deandre-jordan.150x84.jpg</small_image_url>
+      <large_image_url>140304232506-20140304-clippers-suns-recap-deandre-jordan.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304232506-20140304-clippers-suns-recap-deandre-jordan.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304232506-20140304-clippers-suns-recap-deandre-jordan.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Russell Westbrook</title>
+      <description>Russell Westbrook throws the alley-oop to Perry Jones for the slam.</description>
+      <filename>aotn_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:30</duration>
+      <player>Russell Westbrook, Perry Jones</player>
+      <tags>Russell Westbrook, Perry Jones, Oklahoma City, Thunder, pass, assist, slam, dunk, jam, alley, oop, lob</tags>
+      <small_image_url>140305004155-20140304-assist-of-the-night-perry-jones.150x84.jpg</small_image_url>
+      <large_image_url>140305004155-20140304-assist-of-the-night-perry-jones.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305004155-20140304-assist-of-the-night-perry-jones.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305004155-20140304-assist-of-the-night-perry-jones.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - Hollis Thompson</title>
+      <description>Hollis Thompson gets the ball and throws down the monster dunk.</description>
+      <filename>dotn_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:22</duration>
+      <player>Hollis Thompson</player>
+      <tags>Hollis Thompson, Phialdelphia, 76ers, slam, dunk, jam</tags>
+      <small_image_url>140305005024-20140304-dunk-of-the-night-hollis-thompson.150x84.jpg</small_image_url>
+      <large_image_url>140305005024-20140304-dunk-of-the-night-hollis-thompson.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305005024-20140304-dunk-of-the-night-hollis-thompson.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305005024-20140304-dunk-of-the-night-hollis-thompson.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night - Hasheem Thabeet</title>
+      <description>Hasheem Thabeet blocks the shot into the backboard with authority.</description>
+      <filename>botn_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:28</duration>
+      <player>Hasheem Thabeet</player>
+      <tags>Hasheem Thabeet, Oklahoma City, Thunder, block, swat, reject, deny</tags>
+      <small_image_url>140305003040-20140304-block-of-the-night-hasheem-thabeet.150x84.jpg</small_image_url>
+      <large_image_url>140305003040-20140304-block-of-the-night-hasheem-thabeet.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305003040-20140304-block-of-the-night-hasheem-thabeet.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305003040-20140304-block-of-the-night-hasheem-thabeet.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night - David West</title>
+      <description>David West picks Stephen Curry's pocket and takes it in for the two-handed jam.</description>
+      <filename>sotn_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:38</duration>
+      <player>David West</player>
+      <tags>David West, Indiana, Pacers, steal, slam, dunk, jam</tags>
+      <small_image_url>140305003643-20140304-steal-of-the-night-david-west.150x84.jpg</small_image_url>
+      <large_image_url>140305003643-20140304-steal-of-the-night-david-west.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305003643-20140304-steal-of-the-night-david-west.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305003643-20140304-steal-of-the-night-david-west.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Pelicans vs. Lakers</title>
+      <description>Anthony Davis records 28 points and 15 boards, Eric Gordon adds 28 points as the Pelicans defeat the Lakers.</description>
+      <filename>recap14_0903_NOPLAL</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team>LAL</home_team>
+      <away_team>NOP</away_team>
+      <duration>00:02:22</duration>
+      <player>Anthony Davis, Eric Gordon, Tyreke Evans, Brian Roberts, Austin Rivers, Kent Bazemore, Pau Gasol, Jodie Meeks</player>
+      <tags>Los Angeles, Lakers, New Orleans, Pelicans, Anthony Davis, Eric Gordon, Tyreke Evans, Brian Roberts, Austin Rivers, Kent Bazemore, Pau Gasol, Jodie Meeks</tags>
+      <small_image_url>140305010524-anthony-davis-vs-lakers.150x84.jpg</small_image_url>
+      <large_image_url>140305010524-anthony-davis-vs-lakers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305010524-anthony-davis-vs-lakers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305010524-anthony-davis-vs-lakers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Nightly Top 10</content>
+      <title>Fan Night Top 10</title>
+      <description>Watch as the Top 10 plays from Fan Night are counted down.</description>
+      <filename>top10_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:03:03</duration>
+      <player>Shane Battier, Mario Chalmers, Dwyane Wade, LeBron James, Hasheem Thabeet, Serge Ibaka, Russell Westbrook, Kevin Durant, Kawhi Leonard, James Harden, Terrence Jones, Perry Jones, Hollis Thompson, George Hill, Klay Thompson</player>
+      <tags>Shane Battier, Mario Chalmers, Dwyane Wade, LeBron James, Hasheem Thabeet, Serge Ibaka, Russell Westbrook, Kevin Durant, Kawhi Leonard, James Harden, Terrence Jones, Perry Jones, Hollis Thompson, George Hill, Klay Thompson, top 10, plays, nightly</tags>
+      <small_image_url>140304210352-klay-thompson-fake-030414.150x84.jpg</small_image_url>
+      <large_image_url>140304210352-klay-thompson-fake-030414.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304210352-klay-thompson-fake-030414.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140304210352-klay-thompson-fake-030414.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>NBAD</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Shows/Special</content>
+      <title>The Daily Zap</title>
+      <description>Catch highlights from all six games on Tuesday night.</description>
+      <filename>zap_highlights_140304</filename>
+      <media_game_date>03/04/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:02:38</duration>
+      <player></player>
+      <tags>San Antonio, Spurs, Cavaliers, Golden State, Warriors, Indiana, Pacers, Miami, Heat, Houston, Rockets, 76ers, Oklahoma City, Thunder, Los Angeles, Clippers, Suns, Pelicans, Lakers, daily zap, nightly, recap</tags>
+      <small_image_url>140305010948-20140304-lebron-james-dunk-daily-zap.150x84.jpg</small_image_url>
+      <large_image_url>140305010948-20140304-lebron-james-dunk-daily-zap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305010948-20140304-lebron-james-dunk-daily-zap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140305010948-20140304-lebron-james-dunk-daily-zap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+
+
+
+
+

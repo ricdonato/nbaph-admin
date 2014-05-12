@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-12</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Pacers End Loss Streak, Defeat Celtics</title>
+      <description>David West scores 24 points, Paul George adds 12 points as the Pacers end their four-game skid defeating the Celtics.</description>
+      <filename>recap14_0950_BOSIND</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>IND</home_team>
+      <away_team>BOS</away_team>
+      <duration>00:02:09</duration>
+      <player>David West, Paul George, Lance Stephenson, Andrew Bynum, Rajon Rondo, Kelly Olynyk, Jeff Green</player>
+      <tags>Indiana, Pacers, Boston, Celtics, game, recap, David West, Paul George, Lance Stephenson, Andrew Bynum, Rajon Rondo, Kelly Olynyk, Jeff Green</tags>
+      <small_image_url>140311212741-david-west-vs-celtics.150x84.jpg</small_image_url>
+      <large_image_url>140311212741-david-west-vs-celtics.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311212741-david-west-vs-celtics.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311212741-david-west-vs-celtics.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Smith Leads Pistons Past Kings</title>
+      <description>Josh Smith records a game-high 24 points to lead the Pistons over the Kings to end their three-game skid.</description>
+      <filename>recap14_0951_SACDET</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>DET</home_team>
+      <away_team>SAC</away_team>
+      <duration>00:02:19</duration>
+      <player>Josh Smith, Andre Drummond, Greg Monroe, Kyle Singler, Brandon Jennings, Rodney Stuckey, DeMarcus Cousins, Isaiah Thomas, Rudy Gay</player>
+      <tags>Detroit, Pistons, Sacramento, Kings, game, recap, Josh Smith, Andre Drummond, Greg Monroe, Kyle Singler, Brandon Jennings, Rodney Stuckey, DeMarcus Cousins, Isaiah Thomas, Rudy Gay</tags>
+      <small_image_url>140311221127-josh-smith-vs-kings.150x84.jpg</small_image_url>
+      <large_image_url>140311221127-josh-smith-vs-kings.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311221127-josh-smith-vs-kings.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311221127-josh-smith-vs-kings.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Spurs Hang on to Defeat Bulls</title>
+      <description>Manu Ginobili scores 22 points as the Spurs hang on to defeat the Bulls despite only 14 fourth-quarter points.</description>
+      <filename>recap14_0952_SASCHI</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>CHI</home_team>
+      <away_team>SAS</away_team>
+      <duration>00:01:55</duration>
+      <player>Manu Ginobili, Tony Parker, Jimmy Butler, Joakim Noah, D.J. Augustin, Marco Belinelli, Patty Mills, Kawhi Leonard</player>
+      <tags>Chicago, Bulls, San Antonio, Spurs, game, recap, Manu Ginobili, Tony Parker, Jimmy Butler, Joakim Noah, D.J. Augustin, Marco Belinelli, Patty Mills, Kawhi Leonard</tags>
+      <small_image_url>140311225136-ginobili-vs-bulls.150x84.jpg</small_image_url>
+      <large_image_url>140311225136-ginobili-vs-bulls.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225136-ginobili-vs-bulls.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225136-ginobili-vs-bulls.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Grizzlies Edge Blazers</title>
+      <description>Marc Gasol scores 19 points, Zach Randolph adds a double-double as the Grizzlies defeat the Blazers.</description>
+      <filename>recap14_0953_PORMEM</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>MEM</home_team>
+      <away_team>POR</away_team>
+      <duration>00:02:30</duration>
+      <player>Marc Gasol, Zach Randolph, Courtney Lee, Mike Conley, Mike Miller, LaMarcus Aldridge, Nicolas Batum, Damian Lillard</player>
+      <tags>Memphis, Grizzlies, Portland, Trail Blazers, game, recap, Marc Gasol, Zach Randolph, Courtney Lee, Mike Conley, Mike Miller, LaMarcus Aldridge, Nicolas Batum, Damian Lillard</tags>
+      <small_image_url>140311225247-marc-gasol-vs-blazers.150x84.jpg</small_image_url>
+      <large_image_url>140311225247-marc-gasol-vs-blazers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225247-marc-gasol-vs-blazers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311225247-marc-gasol-vs-blazers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Timberwolves outlast Bucks</title>
+      <description>Kevin Love has 27 points, 10 rebounds and six assists to lift the Timberwolves to a 112-101 victory over the Bucks.</description>
+      <filename>recap14_0954_MILMIN</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>MIN</home_team>
+      <away_team>MIL</away_team>
+      <duration>00:02:12</duration>
+      <player>Khris Middleton, John Henson, Nate Wolters, Brandon Knight, Jeff Adrien, Ramon Sessions, Kevin Love, Nikola Pekovic</player>
+      <tags>Minnesota, Timberwolves, Milwaukee, Bucks, game, recap, Khris Middleton, John Henson, Nate Wolters, Brandon Knight, Jeff Adrien, Ramon Sessions, Kevin Love, Nikola Pekovic</tags>
+      <small_image_url>140311223923-0021300954-mil-min-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311223923-0021300954-mil-min-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311223923-0021300954-mil-min-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311223923-0021300954-mil-min-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Durant, Westbrook lead Thunder past Rockets</title>
+      <description>Kevin Durant scores 42 points to help the Thunder defeat the Rockets 106-98 on Tuesday night.</description>
+      <filename>recap14_0955_HOUOKC</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>OKC</home_team>
+      <away_team>HOU</away_team>
+      <duration>00:05:14</duration>
+      <player>Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</player>
+      <tags>Oklahoma City, Thunder, Houston, Rockets, game, recap, Chandler Parsons, James Harden, Francisco Garcia, Kevin Durant, Serge Ibaka, Russell Westbrook, Caron Butler</tags>
+      <small_image_url>140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_url>
+      <large_image_url>140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140311231929-0021300955-hou-okc-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Stephen Curry</title>
+      <description>Stephen Curry tosses the perfect alley-oop to Andrew Bogut who throws it down over the defender.</description>
+      <filename>aotn_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:24</duration>
+      <player>Stephen Curry, Andrew Bogut</player>
+      <tags>Stephen Curry, Andrew Bogut, Golden State, Warriors, alley, oop, slam, dunk, jam, assist, pass</tags>
+      <small_image_url>140312004619-20140311-assist-of-the-night.150x84.jpg</small_image_url>
+      <large_image_url>140312004619-20140311-assist-of-the-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004619-20140311-assist-of-the-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004619-20140311-assist-of-the-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Assist of Night</content>
+      <title>Assist of the Night - Stephen Curry</title>
+      <description>Stephen Curry tosses the perfect alley-oop to Andrew Bogut who throws it down over the defender.</description>
+      <filename>aotn_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:24</duration>
+      <player>Stephen Curry, Andrew Bogut</player>
+      <tags>Stephen Curry, Andrew Bogut, Golden State, Warriors, alley, oop, slam, dunk, jam, assist, pass</tags>
+      <small_image_url>140312004619-20140311-assist-of-the-night.150x84.jpg</small_image_url>
+      <large_image_url>140312004619-20140311-assist-of-the-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004619-20140311-assist-of-the-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004619-20140311-assist-of-the-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Block of Night</content>
+      <title>Block of the Night - Andre Drummond</title>
+      <description>Andre Drummond comes across the lane and rises high for the big swat on Rudy Gay's shot.</description>
+      <filename>botn_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:22</duration>
+      <player>Andre Drummond</player>
+      <tags>Andre Drummond, Detroit, Pistons, block, defense, swat, Rudy Gay</tags>
+      <small_image_url>140312003437-20140311-block-of-the-night.150x84.jpg</small_image_url>
+      <large_image_url>140312003437-20140311-block-of-the-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312003437-20140311-block-of-the-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312003437-20140311-block-of-the-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Dunk of Night</content>
+      <title>Dunk of the Night - Kevin Martin</title>
+      <description>Kevin Martin takes the feed from Kevin Love and punishes Ekpe Udoh with the two-handed crusher.</description>
+      <filename>dotn_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:31</duration>
+      <player>Kevin Martin, Kevin Love, Ricky Rubio</player>
+      <tags>Kevin Martin, Kevin Love, Ricky Rubio, Minnesota, Timberwolves, slam, dunk, jam</tags>
+      <small_image_url>140312004327-20140311-dunk-of-the-night.150x84.jpg</small_image_url>
+      <large_image_url>140312004327-20140311-dunk-of-the-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004327-20140311-dunk-of-the-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312004327-20140311-dunk-of-the-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night - Reggie Jackson</title>
+      <description>Reggie Jackson takes the steal coast-to-coast for the slam dunk.</description>
+      <filename>sotn_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:23</duration>
+      <player>Reggie Jackson</player>
+      <tags>Reggie Jackson, Oklahoma City, Thunder, steal, slam, dunk, jam</tags>
+      <small_image_url>140312003902-20140311-steal-of-the-night.150x84.jpg</small_image_url>
+      <large_image_url>140312003902-20140311-steal-of-the-night.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312003902-20140311-steal-of-the-night.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312003902-20140311-steal-of-the-night.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Warriors Whip Mavs for 5th Straight Win</title>
+      <description>Jordan Crawford scores 19 points and the surging Warriors route the Mavericks 108-85 on Tuesday night for their fifth straight win.</description>
+      <filename>recap14_0956_DALGSW</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team>GSW</home_team>
+      <away_team>DAL</away_team>
+      <duration>00:02:08</duration>
+      <player>Dirk Nowitzki, Samuel Dalembert, Monta Ellis, Jose Calderon, Vince Carter, Andrew Bogut, Klay Thompson, Stephen Curry</player>
+      <tags>Golden State, Warriors, Dallas, Mavericks, game, recap, Dirk Nowitzki, Samuel Dalembert, Monta Ellis, Jose Calderon, Vince Carter, Andrew Bogut, Klay Thompson, Stephen Curry</tags>
+      <small_image_url>140312010040-0021300956-dal-gsw-recap.150x84.jpg</small_image_url>
+      <large_image_url>140312010040-0021300956-dal-gsw-recap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312010040-0021300956-dal-gsw-recap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312010040-0021300956-dal-gsw-recap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>NBAD</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Shows/Special</content>
+      <title>The Daily Zap: March 11</title>
+      <description>Check out the scores and highlights from a seven-game night in the NBA.</description>
+      <filename>zap_highlights_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:03:01</duration>
+      <player></player>
+      <tags>daily, zap, nightly, highlights, game, recap, Celtics, Pacers, Kings, Pistons, Spurs, Bulls, Trail Blazers, Grizzlies, Bucks, Timberwolves, Rockets, Thunder, Mavericks, Warriors</tags>
+      <small_image_url>140312012948-20140311-daily-zap.150x84.jpg</small_image_url>
+      <large_image_url>140312012948-20140311-daily-zap.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312012948-20140311-daily-zap.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312012948-20140311-daily-zap.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Nightly Top 10</content>
+      <title>Top 10: March 11</title>
+      <description>Countdown the best plays from Tuesday night.</description>
+      <filename>top10_140311</filename>
+      <media_game_date>03/11/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:02:51</duration>
+      <player>Andre Iguodala, Kevin Martin, Kevin Love, Andre Drummond, Kevin Durant, Russell Westbrook, DeMarcus Cousins, Jordan Crawford, Isaiah Thomas, Tony Parker</player>
+      <tags>top, ten, 10, best, play, block, slam, dunk, jam, shot, buzzer, beater, Andre Iguodala, Kevin Martin, Kevin Love, Andre Drummond, Kevin Durant, Russell Westbrook, DeMarcus Cousins, Jordan Crawford, Isaiah Thomas, Tony Parker</tags>
+      <small_image_url>140312013421-20140311-tuesday-top-10.150x84.jpg</small_image_url>
+      <large_image_url>140312013421-20140311-tuesday-top-10.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312013421-20140311-tuesday-top-10.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140312013421-20140311-tuesday-top-10.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

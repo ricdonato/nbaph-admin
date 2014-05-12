@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:dcterms="http://purl.org/dc/terms">
+  <channel>
+    <title>NBA To Go Video</title>
+    <link>http://www.nba.com</link>
+    <description>Video Feeds for NBA To Go</description>
+    <pubdate>2014-03-26</pubdate>
+    <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Waiters, Deng Hold Off Raptors</title>
+      <description>Raptors vs. Cavaliers: Dion Waiters scores 24 points with 7 assists with Luol Deng adding 19 points as the Cavaliers edge the Raptors 102-100.</description>
+      <filename>recap14_1057_TORCLE</filename>
+      <media_game_date>03/25/2014</media_game_date>
+      <home_team>CLE</home_team>
+      <away_team>TOR</away_team>
+      <duration>00:02:45</duration>
+      <player>DeMar DeRozan, Kyle Lowry, Jonas Valanciunas, Terrence Ross, Greivis Vasquez, Amir Johnson, Dion Waiters, Spencer Hawes</player>
+      <tags>Cleveland, Cavaliers, Toronto, Raptors, DeMar DeRozan, Kyle Lowry, Jonas Valanciunas, Terrence Ross, Greivis Vasquez, Amir Johnson, Dion Waiters, Spencer Hawes</tags>
+      <small_image_url>140325213011-20140325-dion-waiters-vs-tor-raptors.150x84.jpg</small_image_url>
+      <large_image_url>140325213011-20140325-dion-waiters-vs-tor-raptors.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325213011-20140325-dion-waiters-vs-tor-raptors.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325213011-20140325-dion-waiters-vs-tor-raptors.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item>
+  <item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Harris, Vucevic Storm Limp Blazers</title>
+      <description>Blazers vs. Magic: Tobias Harris scores 25 points with Nikola Vucevic adding 22 points as the Magic top the Blazers 95-85.</description>
+      <filename>recap14_1058_PORORL</filename>
+      <media_game_date>03/25/2014</media_game_date>
+      <home_team>ORL</home_team>
+      <away_team>POR</away_team>
+      <duration>00:01:59</duration>
+      <player>LaMarcus Aldridge, Damian Lillard, Wesley Matthews, Jameer Nelson, Victor Oladipo, Maurice Harkless, Tobias Harris</player>
+      <tags>Orlando, Magic, Portland, Trail Blazers, LaMarcus Aldridge, Damian Lillard, Wesley Matthews, Jameer Nelson, Victor Oladipo, Maurice Harkless, Tobias Harris</tags>
+      <small_image_url>140325212848-20140325-tobias-harris-vs-por-trail-blazers.150x84.jpg</small_image_url>
+      <large_image_url>140325212848-20140325-tobias-harris-vs-por-trail-blazers.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325212848-20140325-tobias-harris-vs-por-trail-blazers.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325212848-20140325-tobias-harris-vs-por-trail-blazers.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Highlights/Game Recap</content>
+      <title>Nowitzki Triumphs Over Thunder In Overtime</title>
+      <description>Thunder vs. Mavericks: Dirk Nowitzki scores 32 points and grabs 11 rebounds with Jose Calderon adding 22 points with 6 triples as the Mavericks top the Thunder in overtime 128-119.</description>
+      <filename>recap14_1059_OKCDAL</filename>
+      <media_game_date>03/25/2014</media_game_date>
+      <home_team>DAL</home_team>
+      <away_team>OKC</away_team>
+      <duration>00:03:19</duration>
+      <player>Kevin Durant, Thabo Sefolosha, Reggie Jackson, Serge Ibaka, Jeremy Lamb, Caron Butler, Derek Fisher, Vince Carter</player>
+      <tags>Dallas, Mavericks, Oklahoma City, Thunder, Kevin Durant, Thabo Sefolosha, Reggie Jackson, Serge Ibaka, Jeremy Lamb, Caron Butler, Derek Fisher, Vince Carter</tags>
+      <small_image_url>140325230649-20140325-dirk-nowitzki-vs-okc-thunder.150x84.jpg</small_image_url>
+      <large_image_url>140325230649-20140325-dirk-nowitzki-vs-okc-thunder.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325230649-20140325-dirk-nowitzki-vs-okc-thunder.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325230649-20140325-dirk-nowitzki-vs-okc-thunder.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item><item>
+      <league>NBA</league>
+      <season>Regular</season>
+      <year>2013-2014</year>
+      <production_unit>Turner</production_unit>
+      <production_type>Post Produced</production_type>
+      <source_format>MOV</source_format>
+      <content>Features/Profiles/TimeOut</content>
+      <title>Steal of the Night: Damian Lillard</title>
+      <description>Damian Lillard steals it from Victor Oladipo and beats the defense back for the layup in transition.</description>
+      <filename>sotn_140325</filename>
+      <media_game_date>03/25/2014</media_game_date>
+      <home_team></home_team>
+      <away_team></away_team>
+      <duration>00:00:18</duration>
+      <player>Damian Lillard</player>
+      <tags>Damian Lillard, Portland, Trail Blazers, steal, layup, fast, break</tags>
+      <small_image_url>140325231553-20140325-sotn.150x84.jpg</small_image_url>
+      <large_image_url>140325231553-20140325-sotn.main-video-player.jpg</large_image_url>
+      <small_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325231553-20140325-sotn.150x84.jpg</small_image_ftp_url>
+      <large_image_ftp_url>ftp://IPVG:hp1vg2@ftp01.nba.com/140325231553-20140325-sotn.main-video-player.jpg</large_image_ftp_url>
+      <promotional_text></promotional_text>
+    </item></channel>    
+</rss>
+
+
+
